@@ -79,7 +79,10 @@ Naming            | Mixed styles and variables             | Clean, readable, co
 
 ---
 
+## 📷 Output Screenshots
 
+
+---
 
 ✅ Status
 Task 4 Completed Successfully ✅
