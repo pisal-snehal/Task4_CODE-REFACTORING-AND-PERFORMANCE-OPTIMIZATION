@@ -81,6 +81,8 @@ Naming            | Mixed styles and variables             | Clean, readable, co
 
 ## 📷 Output Screenshots
 
+![Image](https://github.com/user-attachments/assets/004f69f6-826f-4892-b27a-20e6427bf686)
+![Image](https://github.com/user-attachments/assets/85b35b4f-d97f-445c-9ae3-1b99fcf15973)
 
 ---
 
